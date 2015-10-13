@@ -1,0 +1,61 @@
+body {
+  background-color: #ffcc00;
+}
+
+.navbar-custom.top-nav-collapse {
+  background: #4276b6;
+}
+
+.content-section.thumbnail {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #000;
+}
+
+.text.thumbnail {
+  background-color: rgba(255, 255, 255, 0.5);
+  color: #000;
+}
+
+.about {
+  padding-bottom: 200px;
+}
+
+.target {
+  padding-top: 200px;
+}
+
+.image-section.about {
+  width: 100%;
+  padding: 200px 0;
+  color: #fff;
+  background: url(../img/about-bg.jpg) no-repeat center center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.poll-section {
+  width: 100%;
+  padding: 50px 0;
+  color: #fff;
+  background: url(../img/poll-bg.jpg) no-repeat center center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+
+.origin-section {
+  width: 100%;
+  padding: 50px 0;
+  color: #fff;
+  background: url(../img/origin-bg.jpg) no-repeat center center scroll;
+  background-color: #000;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
