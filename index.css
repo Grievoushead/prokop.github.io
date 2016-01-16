@@ -263,8 +263,8 @@
         #element-52
         {
         height: 21px;
-        width: 483px;
-        left: 233px;
+        width: 100%;
+        left: 0;
         top: 29px;
         z-index: 22;
         }
@@ -1579,4 +1579,9 @@
 
         .social.buttons.horizontal {
           display: inline;
+        }
+
+        .fb-page {
+          display: block !important;
+          text-align: center;
         }
