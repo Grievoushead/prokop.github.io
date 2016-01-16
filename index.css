@@ -495,7 +495,7 @@
         #element-94
         {
         height: auto;
-        width: auto;
+        width: 278px;
         left: 734px;
         top: 85px;
         z-index: 99999;
@@ -1571,3 +1571,12 @@
         padding-left: 10px;
         }
         }}
+
+        #vkshare0 {
+          display: inline;
+          float: left;
+        }
+
+        .social.buttons.horizontal {
+          display: inline;
+        }
